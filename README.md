@@ -15,7 +15,7 @@
         header {
             text-align: center;
             background: #4CAF50;
-            color: black;
+            color: white;
             padding: 10px 0;
         }
         section {
