@@ -15,12 +15,12 @@
         header {
             text-align: center;
             background: #4CAF50;
-            color: white;
+            color: black;
             padding: 10px 0;
         }
         section {
             margin: 20px 0;
-            background: black;
+            background: white;
             padding: 20px;
             border-radius: 5px;
             box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
